@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathaliaMarinsDev
 - 👀 I’m interested in getting into the world of programming more and more
 - 🌱 I’m currently learning Java web programming
-- 📫 How to reach me https://nathaliamarinsdev.github.io/News-Legais/
+- 📫 How to reach me https://www.linkedin.com/in/nathalia-marins-37359028b/
 
 <!---
 NathaliaMarinsDev/NathaliaMarinsDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
