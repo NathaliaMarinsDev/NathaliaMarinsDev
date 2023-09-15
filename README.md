@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m @NathaliaMarinsDev
 - 👀 I’m interested in getting into the world of programming more and more
 - 🌱 I’m currently learning Java web programming
-
   <div align="center">
   <img alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
