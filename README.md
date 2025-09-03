@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou @NathaliaMarinsDev
-- 👀 Estou cada vez mais interessada em me aprofundar no mundo da programação
-- 🌱 Atualmente, estou aprendendo programação web em Java (EMP https://tr.ee/-lRLXkZvuL )
-<div align="center">
+- 👀 Estou cada vez mais interessado em me divulgar no mundo da programação
+- 🌱 Atualmente, estou aprendendo programação web em Java (sobre EMP https://tr.ee/-lRLXkZvuL ) Site https://demoday-html.vercel.app/ 
+<div alinhar="centro">
 <img alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="Nath-CSS" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <br>
@@ -25,3 +25,4 @@ NathaliaMarinsDev/NathaliaMarinsDev é um repositório ✨ especial ✨ porque s
 Você pode clicar no link Visualizar para ver suas alterações.
 --->
  >
+ 
