@@ -1,6 +1,11 @@
 ## 👋 Olá, eu sou @NathaliaMarinsDev
 - 👀 Estou cada vez mais interessado em me divulgar no mundo da programação
-- 🌱 Atualmente, estou aprendendo programação web em Java, Site https://demoday-html.vercel.app/ 
+- 🌱 Atualmente, estou aprendendo programação web em Java, Site https://demoday-html.vercel.app/
+  Frontend: https://github.com/DemoDay-EMP/Demoday-Html
+Backend: https://github.com/DemoDay-EMP/EMP_Back-End
+Banco de Dados: https://github.com/DemoDay-EMP/Banco-de-dados-EMP
+
+  
 <div alinhar="centro">
 <img alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
