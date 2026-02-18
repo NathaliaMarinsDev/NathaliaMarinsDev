@@ -1,28 +1,59 @@
-## 👋 Olá, eu sou @NathaliaMarinsDev
-- 👀 Estou cada vez mais interessado em me divulgar no mundo da programação
-- 🌱 Atualmente, estou aprendendo programação web em Java, Site https://demoday-html.vercel.app/
-  Frontend: https://github.com/DemoDay-EMP/Demoday-Html
-Backend: https://github.com/DemoDay-EMP/EMP_Back-End
-Banco de Dados: https://github.com/DemoDay-EMP/Banco-de-dados-EMP
+# 👋 Olá, eu sou Nathalia Marins  
 
-  
-<div alinhar="centro">
-<img alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="Nath-CSS" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+🎓 Desenvolvedora em formação  
+💻 Foco em Desenvolvimento Web com Java  
+🚀 Buscando minha evolução constante na área de tecnologia  
+
+---
+
+## 🌱 Atualmente estudando
+- Java Web
+- Spring Boot
+- Banco de Dados
+- Desenvolvimento Full Stack
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🏢 DemoDay - Projeto Full Stack
+🔗 Site: https://demoday-html.vercel.app/  
+
+📌 Repositórios:
+- 🎨 Frontend: https://github.com/DemoDay-EMP/Demoday-Html  
+- ⚙ Backend: https://github.com/DemoDay-EMP/EMP_Back-End  
+- 🗄 Banco de Dados: https://github.com/DemoDay-EMP/Banco-de-dados-EMP  
+
+---
+
+## 🛠 Tecnologias que já aprendi
+
+<div align="center">
+  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<br>
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathaliaMarinsDev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaMarinsDev&layout=compact&langs_count=16&theme=jolly"/>
+</div>
+
+---
+
+## 🌎 Onde me encontrar
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/nathalia-marins-37359028b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<br>
-
-<div align="center" style="background-color: #RF6833; padding: 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathaliaMarinsDev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaMarinsDev&layout=compact&langs_count=16&theme=jolly"/>
+  <a href="https://www.linkedin.com/in/nathalia-marins-37359028b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 <!---
