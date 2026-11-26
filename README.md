@@ -1,20 +1,13 @@
 # 👋 Olá, eu sou Nathalia Marins  
 
 🎓 Desenvolvedora em formação  
-💻 Foco em Desenvolvimento Web com Java  
-🚀 Buscando minha evolução constante na área de tecnologia  
-
----
-
-## 🌱 Atualmente estudando
-- Java Web
-- Spring Boot
-- Banco de Dados
-- Desenvolvimento Full Stack
+💻 Foco em Gamer Design
+🚀 Buscando minha evolução constante na área de tecnologiae do designer 
 
 ---
 
 ## 🚀 Projeto em destaque
+## Jogo : Operação Sucata ( exposto na BGS de 2026)
 
 ### 🏢 DemoDay - Projeto Full Stack
 🔗 Site: https://demoday-html.vercel.app/  
