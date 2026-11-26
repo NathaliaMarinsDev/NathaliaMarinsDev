@@ -2,7 +2,7 @@
 
 🎓 Desenvolvedora em formação  
 💻 Foco em Gamer Design
-🚀 Buscando minha evolução constante na área de tecnologiae do designer 
+🚀 Buscando minha evolução constante na área de tecnologia e do designer 
 
 ---
 
